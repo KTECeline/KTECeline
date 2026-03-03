@@ -1,5 +1,5 @@
 # 💫 About Me:
-Khaw Tze Ern, Celine 🎓 Education Asia Pacific University Degree in Computer Science (AI), year 2
+Khaw Tze Ern, Celine 🎓 Education Asia Pacific University Degree in Computer Science (AI), year 3
 
 
 ## 🌐 Socials:

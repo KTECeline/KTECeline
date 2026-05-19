@@ -1,14 +1,154 @@
-# 💫 About Me:
-Khaw Tze Ern, Celine 🎓 Education Asia Pacific University Degree in Computer Science (AI), year 3
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=hey%2C+i'm+Celine+%F0%9F%91%8B;AI+Engineer+%7C+Web3+Builder+%7C+Full-Stack+Dev;Building+LLM+agents+%26+onchain+apps;Open+to+AI+%26+Web3+roles+%F0%9F%9A%80" alt="Typing SVG"/>
+</div>
 
+<br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/celineisabodo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/celinekhaw-040221-tze-ern) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KhawCeline) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=KTECeline&color=blueviolet&style=flat-square&label=profile+views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celinekhaw-040221-tze-ern/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-khaw-tze-ern-portfolio.vercel.app)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/fe838d9c-44df-4be3-a921-2960ac291c19)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KTECeline&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+AI engineer by training, full-stack dev by necessity, Web3 builder by choice.
+
+I build things that actually work — LLM agents, RAG pipelines, onchain apps, and whatever the next hackathon throws at me. Currently finishing my CS(AI) degree at APU while figuring out how to make AI and blockchain talk to each other properly.
+
+---
+
+## 🔬 what i'm working on right now
+
+**FYP — AI Agent Monitoring System** *(or: Identityless Robot Fleet with Self-Assigned Roles)*
+> Building a system where AI agents can be observed, evaluated, and held accountable — because deploying agents without visibility is just chaos with extra steps.
+
+*(Update this once your FYP topic is confirmed!)*
+
+---
+
+## 🏆 things i've shipped
+
+### 🥈 NFT Marketplace — 2nd Place, Encode Club CITREA Track
+Built the entire Solidity backend for an NFT marketplace in a weekend. Smart contracts, deployment, the works.
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+
+---
+
+### 🔟 Wallet Inactivity AI Agent — Top 10, Dev3Pack Global Hackathon 2026
+AI agent that monitors wallet activity on Solana and auto-transfers funds if the wallet goes dormant. Practical security tooling meets onchain automation.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat-square&logo=anthropic&logoColor=white)
+
+---
+
+### 📊 Perp DEX — ETHGlobal ETHOnline 2025
+Unified asset perpetual DEX. Owned the frontend and all third-party integrations end-to-end.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![DeFi](https://img.shields.io/badge/DeFi-FF6B35?style=flat-square)
+
+---
+
+### 🤖 AI Liquidity Pool Advisor — ETHGlobal Agentic Ethereum 2025
+LLM-powered advisor that analyses liquidity pool data and gives actionable DeFi recommendations.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+
+---
+
+### 📈 Quant Trading & Backtesting Engine — UM Hackathon 2025
+Built a quantitative trading system with backtesting from scratch.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+> 🔗 All live demos → **[portfolio](https://v0-khaw-tze-ern-portfolio.vercel.app)**
+
+---
+
+## 💼 where i've actually worked
+
+**AI Engineer Intern — FINDOC SDN BHD** *(Dec 2025 – Mar 2026)*
+Built an AI agent system on Google ADK with automated RAG knowledge retrieval. Then built n8n content pipelines that scrape social media and auto-generate video scripts. Real production stuff.
+
+**Software Engineer Intern — Software International** *(Oct – Dec 2024)*
+Full-stack asset allocation management system — Laravel backend, Azure infra, database design, frontend. Shipped it.
+
+---
+
+## 🛠️ stack
+
+```
+AI / ML      Python · Google ADK · n8n · RAG · LLM orchestration
+Web3         Solidity · Hardhat · Rust (learning) · Anchor (learning)
+Frontend     Next.js · TypeScript · TailwindCSS · React
+Backend      Node.js · Laravel · PHP · MySQL
+Cloud        Google Cloud · Azure · Vercel
+Other        Git · Figma
+```
+
+---
+
+## 📊 github stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KTECeline&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KTECeline&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KTECeline&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KTECeline&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
+
+---
+
+## 🐍 contribution graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KTECeline/KTECeline/output/github-snake-dark.svg" alt="snake"/>
+</div>
+
+> ⚠️ The snake won't show until you set up the GitHub Action. See setup instructions below ↓
+>
+> 1. In this repo create `.github/workflows/snake.yml` with the snake workflow code
+> 2. Go to Settings → Actions → General → set Workflow permissions to **Read and write**
+> 3. Run the action manually once (Actions tab → Generate Snake → Run workflow)
+> 4. Delete this note block once it's working
+
+---
+
+## 🙋 a bit more
+
+- 🏛️ External VP @ [APUBCC](https://apubcc.org) — APU's blockchain club. Hosted events, emceed on stage, went to DevCon 2024 and ETH Bangkok
+- 📜 Cisco Networking cert · Red Hat Linux cert
+- 🔐 Competed in CTF — because breaking things teaches you how to build them better
+
+---
+
+## 📬 let's talk
+
+Open to **AI engineering roles, Web3 projects, and hackathon collabs**.
+
+📧 leopardjiang03@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/celinekhaw-040221-tze-ern/) · 🌐 [Portfolio](https://v0-khaw-tze-ern-portfolio.vercel.app)
+
+---
+
+<div align="center">
+  <sub>currently: somewhere between debugging an AI agent and preparing for my next hackathon</sub>
+</div>

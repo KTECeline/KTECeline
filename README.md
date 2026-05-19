@@ -124,13 +124,6 @@ Other        Git · Figma
   <img src="https://raw.githubusercontent.com/KTECeline/KTECeline/output/github-snake-dark.svg" alt="snake"/>
 </div>
 
-> ⚠️ The snake won't show until you set up the GitHub Action. See setup instructions below ↓
->
-> 1. In this repo create `.github/workflows/snake.yml` with the snake workflow code
-> 2. Go to Settings → Actions → General → set Workflow permissions to **Read and write**
-> 3. Run the action manually once (Actions tab → Generate Snake → Run workflow)
-> 4. Delete this note block once it's working
-
 ---
 
 ## 🙋 a bit more

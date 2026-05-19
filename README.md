@@ -12,7 +12,7 @@
 
 ---
 
-AI engineer by training, full-stack dev by necessity, Web3 builder by choice. Currently finishing CS(AI) at APU and building my FYP — an AI agent monitoring system.
+AI engineer by training, full-stack dev by necessity, Web3 builder by choice. Finished Diploma in Software Engineering, currently finishing CS(AI) at APU and building my FYP — an AI agent monitoring system.
 
 ---
 

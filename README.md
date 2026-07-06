@@ -16,17 +16,15 @@ AI engineer by training, full-stack dev by necessity, Web3 builder by choice. Fi
 
 ---
 
-## 🏆 shipped
+## shipped
 
 | | Project | Result |
 |---|---|---|
 | 🥈 | NFT Marketplace — Encode Club | **2nd Place, CITREA Track** |
 | 🔟 | Wallet Inactivity AI Agent — Dev3Pack 2026 | **Top 10, Best Solana Overall** |
-| 🌐 | Perp DEX — ETHGlobal ETHOnline 2025 | Frontend & integrations |
-| 🤖 | AI Liquidity Pool Advisor — ETHGlobal Agentic Ethereum | LLM-powered DeFi tooling |
-| 📈 | Quant Trading & Backtesting Engine — UM Hackathon | Python + R |
 
-🔗 **[All live demos → portfolio](https://v0-khaw-tze-ern-portfolio.vercel.app)**
+
+🔗 **[All live demos → portfolio](https://khaw-tze-ern-portfolio.vercel.app)**
 
 ---
 

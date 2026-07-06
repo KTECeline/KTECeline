@@ -5,7 +5,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KTECeline&color=blueviolet&style=flat-square&label=profile+views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celinekhaw-040221-tze-ern/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-khaw-tze-ern-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://khaw-tze-ern-portfolio.vercel.app)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/fe838d9c-44df-4be3-a921-2960ac291c19)
 
 </div>
